@@ -1,244 +1,223 @@
 <div align="center">
-  <img src="https://capsule-render.github.io/api?type=waving&color=auto&height=250&section=header&text=Senior%20Software%20%26%20AI%20Engineer&fontSize=40&fontColor=ffffff&animation=twinkling&theme=dark" width="100%" alt="Header Banner" />
-</div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=9A6AFF&center=true&vCenter=true&width=500&lines=Building+Scalable+AI+Systems;Full+Stack+Cloud+Architecture;Enterprise+Product+Engineering" alt="Typing Dynamic SVG" />
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:09001A,35:312E81,70:6D28D9,100:8B5CF6&text=Guillermo%20Mart%C3%ADnez%20M%C3%A9ndez&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20AI-Driven%20Product%20Builder&descAlignY=60&descSize=16&animation=fadeIn" />
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Grado-Ingenier%C3%ADa%20en%20Sistemas-0F0F1A?style=flat-square&logo=academia&logoColor=9A6AFF" alt="Academic Badge" />
-  <img src="https://img.shields.io/badge/Ubicaci%C3%B3n-Remoto%20%7C%20Global-0F0F1A?style=flat-square&logo=googlemaps&logoColor=9A6AFF" alt="Location Badge" />
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=900&lines=Ingenier%C3%ADa+de+software+orientada+a+productos;Aplicaciones+web+seguras%2C+escalables+y+mantenibles;Laravel+%E2%80%A2+MySQL+%E2%80%A2+JavaScript+%E2%80%A2+AI-Assisted+Development;Construyendo+soluciones+digitales+con+impacto+real" alt="Typing SVG" />
 
 <br />
 
-<div align="center">
-  <a href="https://portfolio.dev"><img src="https://img.shields.io/badge/Portfolio-Premium-9A6AFF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://linkedin.com/in/username"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:email@domain.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/username"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-</div>
+<img src="https://img.shields.io/badge/Formaci%C3%B3n-Ingenier%C3%ADa%20de%20Software-4C1D95?style=flat-square&logo=academia&logoColor=white" />
+<img src="https://img.shields.io/badge/Enfoque-Product%20Engineering-5B21B6?style=flat-square&logo=target&logoColor=white" />
+<img src="https://img.shields.io/badge/Especialidad-Full%20Stack%20%2B%20AI-6D28D9?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Ubicaci%C3%B3n-M%C3%A9xico-312E81?style=flat-square&logo=googlemaps&logoColor=white" />
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&color=9A6AFF&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/your-github-username?label=Followers&style=flat-square&color=444465" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/your-github-username?label=Total+Stars&style=flat-square&color=444465" alt="Stars" />
-</div>
+<br /><br />
 
----
+<a href="https://guillermo-mm.dev">
+  <img src="https://img.shields.io/badge/PORTAFOLIO-111827?style=for-the-badge&logo=vercel&logoColor=A78BFA" />
+</a>
+<a href="https://www.linkedin.com/in/guillermo-martinez-mendez">
+  <img src="https://img.shields.io/badge/LINKEDIN-111827?style=for-the-badge&logo=linkedin&logoColor=A78BFA" />
+</a>
+<a href="mailto:guillermo.mm.dev@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-111827?style=for-the-badge&logo=gmail&logoColor=A78BFA" />
+</a>
+<a href="https://github.com/guillermo-mm-dev">
+  <img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=A78BFA" />
+</a>
 
-## 01. Sobre Mí
+<br /><br />
 
-Ingeniero de Software Senior especializado en el diseño y construcción de sistemas distribuidos de alta disponibilidad y soluciones de Inteligencia Artificial de nivel empresarial. Con una sólida trayectoria en el desarrollo Full Stack y una mentalidad orientada al producto, transformo arquitecturas complejas en experiencias de usuario de alto impacto y rendimiento optimizado para FAANG.
-
-* **Ingeniería de Software:** Diseño de microservicios robustos, patrones de diseño avanzados y optimización de bases de datos.
-* **Especialización en AI/ML:** Despliegue de LLMs, arquitecturas RAG complejas y canalizaciones de datos a gran escala.
-* **Desarrollo Full Stack:** Interfaces modernas basadas en rendimiento junto a arquitecturas backend altamente concurrentes.
-* **Mentalidad de Producto:** Alineación de decisiones técnicas con objetivos de negocio escalables e indicadores clave de rendimiento (KPIs).
-
-> **Open To:** Roles de liderazgo técnico, consultorías de arquitectura en la nube, colaboraciones de investigación en IA y proyectos de código abierto de alto impacto.
-
----
-
-## 02. Stack Tecnológico
-
-### Lenguajes
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,go,rust,cpp" alt="Languages" />
-</p>
-
-### Frontend
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,graphql,threejs" alt="Frontend" />
-</p>
-
-### Backend & Bases de Datos
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,postgres,mongodb,redis,graphql" alt="Backend & DB" />
-</p>
-
-### Cloud, DevOps & Herramientas
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,githubactions,linux" alt="DevOps" />
-</p>
-
----
-
-## 03. Experiencia en IA / ML
-
-| Dominio | Nivel de Competencia | Detalles Técnicos |
-| :--- | :--- | :--- |
-| **LLMs & RAG** | Avanzado / Experto | Ajuste fino (Fine-tuning), LangChain, LlamaIndex, Vector DBs (Pinecone, Milvus) |
-| **Deep Learning** | Avanzado | Arquitecturas Transformers, Visión por Computador, PyTorch, TensorFlow |
-| **MLOps** | Avanzado | Orquestación de canalizaciones con Kubeflow, MLflow, despliegues en AWS SageMaker |
-| **Data Engineering** | Intermedio / Avanzado | Procesamiento de datos en tiempo real y por lotes con Apache Spark, Kafka |
-
----
-
-## 04. Proyectos Destacados
-
-<details>
-<summary><b>🚀 Sistema de Búsqueda Semántica de Nivel Empresarial (RAG)</b></summary>
-<br />
-
-### Descripción
-Motor de búsqueda e indexación de documentos cognitivos de alta disponibilidad diseñado para procesar y consultar millones de registros estructurados y no estructurados en milisegundos utilizando IA generativa profunda.
-
-### Matriz de Rendimiento y Arquitectura
-
-| Atributo | Especificación Técnica |
-| :--- | :--- |
-| **Stack** | Python, Go, PyTorch, Pinecone, Kubernetes, FastAPI |
-| **Escala** | Ingesta de >10M de documentos diarios con consistencia ACID |
-| **Rendimiento** | Latencia de búsqueda < 45ms mediante optimización de grafos HNSW |
-| **Seguridad** | Cifrado AES-256 en reposo, aislamiento de datos y cumplimiento SOC2 |
-| **Impacto** | Reducción del 40% en el tiempo de descubrimiento de información interna |
-| **Repositorio** | [Acceder al Código Fuera de Línea](#) |
-
-### Análisis de Ingeniería
-El núcleo del sistema implementa una arquitectura híbrida de recuperación que fusiona búsqueda densa (embeddings basados en BERT) con búsqueda dispersa tradicional (BM25). El backend distribuido en Go coordina la ingesta de documentos a través de colas de mensajes Kafka, aislando los procesos de análisis de texto pesados en clústeres de GPU autogestionados dentro de Kubernetes. El almacenamiento vectorial vectorizado minimiza los costes de infraestructura manteniendo alta precisión.
-
-</details>
-
-<details>
-<summary><b>🌐 Plataforma Cloud E-Commerce Distribuidora en Tiempo Real</b></summary>
-<br />
-
-### Descripción
-Arquitectura global de microservicios nativa de la nube para el procesamiento transaccional de alta frecuencia con sincronización de inventario en tiempo real global y cero puntos únicos de fallo.
-
-### Matriz de Rendimiento y Arquitectura
-
-| Atributo | Especificación Técnica |
-| :--- | :--- |
-| **Stack** | Next.js, NestJS, PostgreSQL, Redis Cluster, AWS, Terraform |
-| **Escala** | Soporte de hasta 50,000 solicitudes por segundo en picos de tráfico |
-| **Rendimiento** | Respuestas de API a nivel perimetral de < 15ms utilizando AWS CloudFront |
-| **Seguridad** | Mitigación DDoS avanzada, arquitectura Zero-Trust y cumplimiento PCI-DSS |
-| **Impacto** | Incremento del 25% en la tasa de conversión transaccional global |
-| **Repositorio** | [Acceder al Código Fuera de Línea](#) |
-
-### Análisis de Ingeniería
-Desarrollado bajo el paradigma de Infrastructure as Code (IaC) con Terraform. El almacenamiento en caché multinivel implementado en Redis redujo la carga de la base de datos PostgreSQL principal en un 70%. El sistema de checkout e inventario utiliza consistencia eventual controlada mediante bloqueos distribuidos de Redis (Redlock), garantizando que no se produzcan sobreventas de productos bajo condiciones extremas de concurrencia masiva.
-
-</details>
-
----
-
-## 05. Experiencia Profesional
-
-### **Ingeniero de Software Senior (AI & Cloud)** | *FAANG Corporation*
-**Enero 2024 — Presente**
-* Liderazgo técnico del equipo de infraestructura de datos centralizado, mejorando el rendimiento de los modelos internos de recomendación en un 35%.
-* Diseño y migración de monolitos tradicionales hacia arquitecturas distribuidas basadas en microservicios desacoplados en la nube de AWS.
-* Automatización del ciclo de vida de modelos ML mediante pipelines de CI/CD avanzados, reduciendo los tiempos de despliegue de semanas a minutos.
-* `Python` `Go` `AWS` `Kubernetes` `PyTorch` `Terraform`
-
-### **Ingeniero de Software Full Stack** | *Enterprise Tech Solutions*
-**Marzo 2021 — Diciembre 2023**
-* Desarrollo de paneles analíticos críticos basados en React y Next.js capaces de renderizar grandes conjuntos de datos en tiempo real sin degradación de UI.
-* Optimización de consultas SQL complejas y esquemas de bases de datos relacionales, reduciendo los tiempos de carga de reportes financieros en un 50%.
-* Supervisión y mentoría de ingenieros juniors, promoviendo el desarrollo de código limpio y la adopción de pruebas de integración exhaustivas.
-* `TypeScript` `Next.js` `Node.js` `PostgreSQL` `Docker` `Redis`
-
----
-
-## 06. Logros
-
-<div align="center">
-
-| Reconocimiento | Detalles |
-| :--- | :--- |
-| **Ganador de Hackathon Global IA** | Primer lugar entre 500 equipos por el desarrollo de un agente conversacional autónomo para logística. |
-| **Contribuidor de Código Abierto** | Parches de optimización de rendimiento aceptados en proyectos core del ecosistema de IA y nube. |
-| **Premio a la Excelencia Tecnológica** | Otorgado por la arquitectura y ejecución del sistema financiero transaccional de alta escala. |
+<img src="https://komarev.com/ghpvc/?username=guillermo-mm-dev&label=VISITAS%20AL%20PERFIL&color=6D28D9&style=flat-square" />
+<a href="https://github.com/guillermo-mm-dev?tab=followers">
+  <img src="https://img.shields.io/github/followers/guillermo-mm-dev?label=SEGUIDORES&style=flat-square&color=5B21B6" />
+</a>
+<a href="https://github.com/guillermo-mm-dev?tab=repositories">
+  <img src="https://img.shields.io/github/stars/guillermo-mm-dev?affiliations=OWNER%2CCOLLABORATOR&label=ESTRELLAS&style=flat-square&color=4C1D95" />
+</a>
 
 </div>
 
 ---
 
-## 07. Certificaciones
+## Sobre mí
 
-### Amazon Web Services (AWS)
-<p align="left">
-  <img src="https://img.shields.io/badge/AWS-Certified%20Solutions%20Architect%20Professional-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS SAP" />
-  <img src="https://img.shields.io/badge/AWS-Certified%20Machine%20Learning%20Specialty-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS MLS" />
-</p>
+Soy **Software Engineer** y desarrollador **Full Stack** enfocado en diseñar productos digitales sólidos, seguros y mantenibles. Mi trabajo combina arquitectura de software, modelado de datos, automatización y desarrollo web para resolver necesidades reales de negocio con una visión de largo plazo.
 
-### Oracle
-<p align="left">
-  <img src="https://img.shields.io/badge/Oracle-Java%20SE%2017%20Developer%20Professional-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle Java" />
-</p>
+Me especializo en construir sistemas internos y plataformas web utilizando **Laravel**, **PHP**, **MySQL**, **JavaScript** y herramientas modernas de ingeniería asistida por inteligencia artificial. Tengo especial interés en crear aplicaciones que transformen procesos operativos complejos en experiencias simples, rápidas y confiables.
 
-### NPTEL & Cisco
-<p align="left">
-  <img src="https://img.shields.io/badge/NPTEL-Advanced%20Algorithms%20%26%20Data%20Structures-005EA2?style=flat-square" alt="NPTEL" />
-  <img src="https://img.shields.io/badge/Cisco-CCNA%20Routing%20and%20Switching-1BA0D7?style=flat-square&logo=cisco&logoColor=white" alt="CCNA" />
-</p>
+Integro inteligencia artificial dentro de mi flujo de trabajo para mejorar la calidad del software, acelerar la investigación técnica, documentar decisiones, fortalecer revisiones de código y aplicar metodologías de desarrollo guiadas por especificaciones. Mi enfoque no consiste únicamente en escribir código: busco comprender el dominio, identificar restricciones reales y construir soluciones con impacto medible.
 
----
-
-## 08. Perfiles Competitivos
-
-<div align="center">
-  <a href="#"><img src="https://img.shields.io/badge/LeetCode-Guardian_Rank-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/GeeksforGeeks-Expert-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
-  <br />
-  <a href="#"><img src="https://img.shields.io/badge/HackerRank-5_Stars_Problem_Solving-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/CodeChef-5_Star-964B00?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>
-</div>
-
----
-
-## 09. Métricas de GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.co/api?username=your-github-username&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.co/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="60%" />
-</div>
-
----
-
-## 10. Trofeos de Repositorio
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-github-username&theme=tokyonight&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" width="100%" />
-</div>
-
----
-
-## 11. Gráfico de Actividad
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-github-username&theme=tokyonight&area=true&hide_border=true" alt="Activity Graph" width="100%" />
-</div>
-
----
-
-## 12. Historial de Contribuciones
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/your-github-username/your-github-username/output/github-contribution-grid-snake.svg" alt="Snake Contribution Animation" width="100%" />
-</div>
-
----
-
-## 13. Enfoque Actual
+### Open To
 
 ```yaml
-learning:
-  - "Sistemas Multi-Agente Avanzados de IA"
-  - "Optimización de Kernels de C++ para CUDA"
-building:
-  - "Framework de RAG Local de ultra-baja latencia"
-exploring:
-  - "Computación Cuántica Aplicada a la Criptografía"
-openTo:
-  - "Arquitecturas de Software Complejas a Gran Escala"
+Disponible para:
+  - Proyectos Full Stack con impacto operativo
+  - Desarrollo backend y arquitectura de aplicaciones web
+  - Automatización de procesos empresariales
+  - Colaboraciones open source
+  - Proyectos de AI Engineering y herramientas para desarrolladores
+  - Oportunidades de Software Engineering orientadas a producto
+Tech Stack
+<div align="center">
+Lenguajes
+<img src="https://skillicons.dev/icons?i=php,js,ts,python,html,css,md&theme=dark" />
+Frontend
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,vite&theme=dark" />
+Backend & Bases de Datos
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql,nodejs,express,sqlite&theme=dark" />
+Cloud, DevOps & Tooling
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,composer,linux,bash,docker,cloudflare&theme=dark" /> </div>
+AI / ML Expertise
+Dominio	Nivel	Detalles
+AI-Assisted Software Engineering	Avanzado	Diseño de flujos de trabajo con agentes, generación controlada de código, revisión técnica, refactorización y documentación asistida por IA.
+Spec-Driven Development	Avanzado	Definición de visión, PRD, modelos de dominio, esquemas de base de datos, reglas de implementación y criterios verificables antes de programar.
+Prompt Engineering	Avanzado	Creación de instrucciones estructuradas para investigación, planeación técnica, generación de código y control de calidad.
+LLM Tooling & Automation	Intermedio	Uso de asistentes de desarrollo, agentes y automatizaciones para optimizar tareas repetitivas y mejorar la trazabilidad.
+Machine Learning Foundations	Intermedio	Comprensión de fundamentos de aprendizaje supervisado, evaluación de modelos, preparación de datos y casos de uso empresariales.
+Data-Oriented Product Design	Intermedio	Modelado de información, normalización, historial de cambios, búsquedas eficientes y diseño de sistemas centrados en datos confiables.
+Proyectos Destacados
+<details> <summary><strong>Pool PIM — Sistema de Gestión de Información de Productos</strong></summary> <br />
+
+Plataforma interna diseñada como la fuente única de verdad para administrar catálogos técnicos de productos, proveedores, marcas, categorías, variantes, precios históricos, archivos y disponibilidad comercial.
+
+Aspecto	Detalles
+Stack	Laravel, PHP, Blade, MySQL, GitHub, Hostinger
+Escala	Catálogo empresarial con múltiples categorías, proveedores, variaciones, imágenes y documentos técnicos
+Rendimiento	Arquitectura orientada a búsquedas rápidas por SKU, nombre, marca y categoría
+Seguridad	Aplicación interna, control de acceso, datos normalizados y conservación de historial
+Impacto	Reduce duplicidad de información y prepara la integración futura con tienda, cotizador y ERP
+Repositorio	Código privado por contener lógica operativa del negocio
+Descripción profesional
+
+El sistema se construye mediante un enfoque Spec-Driven Development, con documentación previa de visión, requisitos, modelo de dominio y esquema de base de datos. La arquitectura separa la información comercial del inventario y mantiene trazabilidad completa de precios, proveedores y productos descontinuados.
+
+La plataforma contempla productos agrupadores con variaciones, múltiples alias comerciales, claves SAT, monedas, documentos PDF, imágenes y reglas de negocio para mantener integridad histórica. Su diseño busca evitar deuda técnica temprana y permitir una evolución gradual hacia un ecosistema empresarial integrado.
+
+</details> <details> <summary><strong>Plataforma Web para Servicios y Productos de Albercas</strong></summary> <br />
+
+Sitio web empresarial orientado a presentar servicios profesionales, fortalecer la presencia digital de la marca y preparar una futura tienda en línea para productos especializados.
+
+Aspecto	Detalles
+Stack	Laravel, PHP, Blade, JavaScript, MySQL, HTML, CSS
+Escala	Plataforma modular para servicios, catálogo y evolución hacia comercio electrónico
+Rendimiento	Componentes ligeros, renderizado del lado del servidor y estructura optimizada
+Seguridad	Validación backend, configuración segura del entorno y despliegue controlado
+Impacto	Mejora la captación digital y crea una base técnica para nuevas funcionalidades comerciales
+Repositorio	Código privado por pertenecer a una operación comercial activa
+Descripción profesional
+
+Proyecto enfocado en mantener una experiencia profesional, rápida y clara para clientes residenciales y empresariales. La solución está diseñada para evolucionar por etapas, evitando introducir complejidad innecesaria antes de validar las necesidades prioritarias del negocio.
+
+El desarrollo incluye decisiones orientadas a mantenibilidad, despliegue sencillo y compatibilidad con futuras integraciones del catálogo interno.
+
+</details> <details> <summary><strong>Arquitectura Digital para Operaciones de Construcción y Mantenimiento</strong></summary> <br />
+
+Diseño progresivo de una plataforma empresarial para digitalizar procesos de operación, logística y seguimiento dentro de una compañía especializada en construcción y mantenimiento de albercas.
+
+Aspecto	Detalles
+Stack	Laravel, MySQL, Blade, GitHub, documentación técnica y automatización asistida por IA
+Escala	Operación con múltiples equipos de campo, almacenes y proyectos simultáneos
+Rendimiento	Planeación modular para crecer sin convertir el MVP en un sistema sobredimensionado
+Seguridad	Priorización de privacidad, acceso interno y protección de información sensible
+Impacto	Establece una hoja de ruta desde catálogo interno hasta cotizador y ERP
+Repositorio	Diseño interno y documentación privada
+Descripción profesional
+
+La estrategia parte de resolver primero el problema de calidad de datos mediante un PIM interno. Posteriormente, la misma base podrá alimentar herramientas de cotización, tienda en línea y módulos operativos.
+
+Este proyecto refleja un enfoque de Product Engineering: comprender el negocio, dividir el problema en fases, priorizar entregables de alto impacto y diseñar una arquitectura que permita crecer sin sacrificar claridad.
+
+</details> <details> <summary><strong>Laboratorio de Automatización y Desarrollo Asistido por IA</strong></summary> <br />
+
+Entorno de experimentación para crear flujos de trabajo técnicos más confiables mediante agentes, reglas de proyecto, documentación estructurada y revisiones automatizadas.
+
+Aspecto	Detalles
+Stack	VS Code, Codex, GitHub, Markdown, Git, Laravel tooling
+Escala	Flujos reutilizables para distintos módulos y proyectos
+Rendimiento	Reducción del retrabajo mediante instrucciones explícitas y tareas acotadas
+Seguridad	Reglas para evitar cambios no autorizados, dependencias innecesarias y desviaciones del alcance
+Impacto	Mejora consistencia, velocidad de ejecución y trazabilidad técnica
+Repositorio	Documentación integrada en proyectos privados
+Descripción profesional
+
+El laboratorio aplica prácticas de ingeniería de arneses para asistentes de desarrollo: documentación contextual, reglas persistentes, restricciones arquitectónicas, división de tareas y criterios de aceptación.
+
+El objetivo es utilizar inteligencia artificial como una herramienta controlada dentro del proceso de ingeniería, no como sustituto de la toma de decisiones técnicas.
+
+</details>
+Experiencia
+Software Engineer & Product Builder
+
+Proyectos empresariales independientes
+2025 — Actualidad
+
+Diseño y desarrollo de soluciones digitales orientadas a mejorar procesos internos, centralizar información crítica y preparar la evolución tecnológica de operaciones empresariales.
+
+Diseño de aplicaciones web con Laravel, PHP, Blade y MySQL.
+Modelado de bases de datos normalizadas para catálogos, proveedores, productos y precios históricos.
+Definición de arquitecturas modulares para crecimiento progresivo.
+Desarrollo de documentación técnica: visión, PRD, modelos de dominio y esquemas relacionales.
+Implementación de flujos de trabajo asistidos por IA con reglas, restricciones y revisiones.
+Planeación de despliegues, seguridad y mantenibilidad para sistemas internos.
+<br /> <img src="https://img.shields.io/badge/Laravel-111827?style=flat-square&logo=laravel&logoColor=A78BFA" /> <img src="https://img.shields.io/badge/PHP-111827?style=flat-square&logo=php&logoColor=A78BFA" /> <img src="https://img.shields.io/badge/MySQL-111827?style=flat-square&logo=mysql&logoColor=A78BFA" /> <img src="https://img.shields.io/badge/Product%20Engineering-111827?style=flat-square&logo=producthunt&logoColor=A78BFA" /> <img src="https://img.shields.io/badge/AI--Assisted%20Development-111827?style=flat-square&logo=openai&logoColor=A78BFA" /> <img src="https://img.shields.io/badge/Software%20Architecture-111827?style=flat-square&logo=diagramsdotnet&logoColor=A78BFA" />
+Logros
+<div align="center">
+Reconocimiento	Detalles
+Arquitectura orientada a producto	Diseño de una hoja de ruta tecnológica que prioriza catálogo interno, tienda, cotizador y evolución hacia ERP.
+Modelado de dominio empresarial	Definición de entidades, reglas de negocio y relaciones para productos, proveedores, variantes y trazabilidad histórica.
+Desarrollo guiado por especificaciones	Integración de documentación técnica y reglas de implementación antes de modificar código.
+Automatización con inteligencia artificial	Creación de flujos de trabajo para mejorar investigación, planeación, consistencia y revisión técnica.
+Mentalidad de mejora continua	Enfoque práctico para entregar valor incremental sin comprometer mantenibilidad ni seguridad.
+</div>
+Certificaciones
+AWS
+<img src="https://img.shields.io/badge/AWS-Cloud%20Foundations-111827?style=for-the-badge&logo=amazonwebservices&logoColor=A78BFA" /> <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner%20Learning-111827?style=for-the-badge&logo=amazonwebservices&logoColor=A78BFA" />
+Oracle
+<img src="https://img.shields.io/badge/Oracle-Database%20Foundations-111827?style=for-the-badge&logo=oracle&logoColor=A78BFA" /> <img src="https://img.shields.io/badge/Oracle-Java%20Foundations-111827?style=for-the-badge&logo=oracle&logoColor=A78BFA" />
+NPTEL
+<img src="https://img.shields.io/badge/NPTEL-Programming%20Foundations-111827?style=for-the-badge&logo=bookstack&logoColor=A78BFA" /> <img src="https://img.shields.io/badge/NPTEL-Software%20Engineering-111827?style=for-the-badge&logo=bookstack&logoColor=A78BFA" />
+Cisco
+<img src="https://img.shields.io/badge/Cisco-Networking%20Basics-111827?style=for-the-badge&logo=cisco&logoColor=A78BFA" /> <img src="https://img.shields.io/badge/Cisco-Cybersecurity%20Essentials-111827?style=for-the-badge&logo=cisco&logoColor=A78BFA" />
+Coding Profiles
+<div align="center"> <a href="https://leetcode.com/guillermo-mm-dev"> <img src="https://img.shields.io/badge/LEETCODE-111827?style=for-the-badge&logo=leetcode&logoColor=A78BFA" /> </a> <a href="https://auth.geeksforgeeks.org/user/guillermo-mm-dev"> <img src="https://img.shields.io/badge/GEEKSFORGEEKS-111827?style=for-the-badge&logo=geeksforgeeks&logoColor=A78BFA" /> </a> <a href="https://www.hackerrank.com/guillermo-mm-dev"> <img src="https://img.shields.io/badge/HACKERRANK-111827?style=for-the-badge&logo=hackerrank&logoColor=A78BFA" /> </a> <a href="https://www.codechef.com/users/guillermo-mm-dev"> <img src="https://img.shields.io/badge/CODECHEF-111827?style=for-the-badge&logo=codechef&logoColor=A78BFA" /> </a> </div>
+GitHub Analytics
+<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guillermo-mm-dev&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guillermo-mm-dev&layout=compact&hide_border=true&langs_count=8&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD" /> <br /> <img src="https://streak-stats.demolab.com?user=guillermo-mm-dev&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=C4B5FD&sideLabels=C4B5FD&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9CA3AF" /> </div>
+GitHub Trophies
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=guillermo-mm-dev&theme=discord&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" /> </div>
+Contribution Activity
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=guillermo-mm-dev&bg_color=0D1117&color=C4B5FD&line=8B5CF6&point=A78BFA&area=true&hide_border=true" /> </div>
+Contribution Snake
+<div align="center"> <img src="https://raw.githubusercontent.com/guillermo-mm-dev/guillermo-mm-dev/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" /> </div>
+Current Focus
+Learning:
+  - Arquitectura de software escalable
+  - Seguridad para aplicaciones web
+  - Laravel y ecosistema PHP moderno
+  - Automatización con agentes de inteligencia artificial
+
+Building:
+  - Pool PIM como fuente única de información de productos
+  - Plataforma empresarial modular para servicios y comercio electrónico
+  - Flujos de desarrollo guiados por especificaciones
+
+Exploring:
+  - AI Engineering aplicado a productos empresariales
+  - Automatización de procesos operativos
+  - Arquitecturas orientadas a datos
+  - Herramientas para mejorar Developer Experience
+
+Open To:
+  - Software Engineering
+  - Backend Development
+  - Full Stack Development
+  - Product Engineering
+  - Open Source Collaboration
+Connect
+<div align="center"> <a href="mailto:guillermo.mm.dev@gmail.com"> <img src="https://img.shields.io/badge/GMAIL-111827?style=for-the-badge&logo=gmail&logoColor=A78BFA" /> </a> <a href="https://www.linkedin.com/in/guillermo-martinez-mendez"> <img src="https://img.shields.io/badge/LINKEDIN-111827?style=for-the-badge&logo=linkedin&logoColor=A78BFA" /> </a> <a href="https://github.com/guillermo-mm-dev"> <img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=A78BFA" /> </a> <a href="https://guillermo-mm.dev"> <img src="https://img.shields.io/badge/PORTAFOLIO-111827?style=for-the-badge&logo=vercel&logoColor=A78BFA" /> </a>
+
+<br /><br />
+
+"La ingeniería de software sobresaliente transforma problemas complejos en productos simples, confiables y escalables."
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:
